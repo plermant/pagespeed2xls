@@ -16,7 +16,7 @@ type in your URL
 
  2) Input file.
 This file has your API key as the first line, and then one URL per line. 
-e.g. type 'pagespeed2xls.py -i <inputfile> -o <outputfile.xls>'
+e.g. type 'pagespeed2xls.py -i \<inputfile\> -o \<outputfile.xls\>'
 
 If you chose to rename the default output file, make sure you add extension '.xls' so it can be opened automatically by Excel.
 
